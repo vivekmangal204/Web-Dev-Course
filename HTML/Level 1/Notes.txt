@@ -1,0 +1,59 @@
+---------------------------1. Starting Up------------------------
+1.1
+First File using Text Editor
+1. Create a folder with name First on your desktop
+2. open notepad.
+3. create a file and save it as index.html
+4. copy sample code
+5. open browser and check.
+1.2
+File Extension
+HTML
+1. Most commonly used.
+2. Works across all browsers.
+3. Widely recognized and supported.
+4. Typically saved as .html.
+HTM
+1. Less commonly used.
+2. Originated for compatibility with older systems.
+3. Works same as .html.
+4. Typically saved as .htm.
+1.3
+Created a file in VsCode.
+1.4
+Importance of Index.html 
+1. Default name of a website's homepage.
+2. First page users seet when visiting a website.
+3. important for seo(search engine optimization)
+4. Provides uniform starting point across servers
+5. Serves as fallback when no file is specified in URL.
+-----------------2.Basics of HTML-----------------------
+2.1
+What are Tags
+1. Elements that are used to create a website called HTML tags.
+2. Tags can contain content or other HTML tags.
+3. Define elements like text, images, links.
+2.2
+Using emmet ! to generate Code.
+2.3
+Basic HTML page
+Explained in index.html file.
+2.4
+MDN Documentation
+1. visit https://developer.mozilla.org/
+2. Official resource for HTML
+3. Offers comprehensive guides and tutorials.
+4. Includes examples for real-world used
+5. Updated with latest HTML features
+2.5
+comments
+1. Used to add notes in HTML Code
+2. Not displayed on the webpage
+3. syntax: <!-- Comments -->
+4. Helpful for code organization
+5. can be multi-line or single-line
+2.6
+Case senstivity
+1. HTML is case-insensitive for tag names
+2. attribute names are also be case-insenstive
+3. Best Practice : use lowercase for consistency

@@ -1,0 +1,63 @@
+---------------------------1. Ide or Code Editor------------------------
+1.1 What is IDE
+1. IDE Stands for Integrated Development Environment.
+2. Software Suite That Consolidates basic tools required for software development.
+3. Central hub for coding, finding problems, and testing.
+4. Designed to improve developer efficiency.
+1.2 Need of IDE
+1. Streamlines development
+2. Increases Productivity.
+3. Simplifies complex tasks.
+4. Offers a unified workspace.
+5. IDE features.
+1.3 IDE Selection
+1. Sublime Text
+2. Atom
+3. VS Code 
+4. Github CodeSpaces
+---> Install and setup VS Code with required extensions
+----------------------2. Website Comonents and Fundamentals-----------------------
+2.1
+Client Side
+- Executes on User's device.[Execution location]
+- Primarily JS, HTML, CSS.[Languages]
+- Makes clicks and scroll work.[Main Job]
+- Can't access server data directly.[Access Level]
+- Quicker for UI changes.[Speed]
+Server Side
+- Executes on a remote Machine.
+- PHP, Python, Java, Node.js etc.
+- Manages saved information.
+- can read/write files interact with databases.
+- slower due to network latency.
+2.2
+Frontend(HTML,CSS,JS) + Bakcend(Java,Python) = Full Stack(MERN)
+M - MongoDB
+E - Express.js
+R - React
+N - Nodejs
+2.3
+Role of Browser
+1. Displays Web Page : Turns HTML code into what you see on screen.
+2. User Clics : Helps you interact with the web page.
+3. Updates content : Allows changes to the page using JS.
+4. Loads Files: Gets HTML, images etc. from the server.
+2.4
+HTML {Hyper text markup language}
+1. Structure : sets up the Layout
+2. Content : Adds text, images, links
+3. Tags: Uses Elements like <p>, <a>
+4. Hierarchy : Oraganizes elements in a tree.
+2.5
+CSS {Cascading Style Sheets}
+1. Style: Sets the look and feel.
+2. Colors and fonts: customize text and bg.
+3. layout : controls position and size.
+4. selectors : targets specific HTML elements.
+2.6
+JS {JavaScript}
+1. JavaScript has nothing to do with Java.
+2. Actions : Enables interactivity.
+3. Updates : Alters page without reloading.
+4. Events : Responds to user Actions.
+5. Data : Fetches and sends info to server.
