@@ -1,0 +1,49 @@
+----------1. JS in Console
+~ Allows real-time editing of HTML/CSS/JS
+~ Runs Scripts: Test code in console.
+~ Debug: Locate and Fix errors.
+~ Modify DOM: Changes webpage elements.
+~ Errors: View error messages.
+We can use Alert
+syntax :
+alert('message in popup');
+we can use console as a calculator
+----------- DOM Manipulation
+~ change HTML
+~ change CSS
+~ change JS
+----------- Chrome Extensions
+We can use JS to make Extensions
+~ Create features : Add new functionalities to Chrome
+~ Interact with Web : Modify or read webpage content.
+~ API Access : Use chrome's built-in functions.
+~ User Experience : Enhance or customize browsing.
+-----------Programming Language ?
+~ Giving instructions to a computer
+~ instructions: Tells computer what to do.
+~ These Instructions are called code.
+-----------Synatx ?
+~ Structure of words in a sentence.
+~ Rules of the language.
+~ For programming exact syntax must be followed.
+-----------Role of Browser
+1. Displays Web Page : Turns HTML code into what you see on screen.
+2. User Clics : Helps you interact with the web page.
+3. Updates content : Allows changes to the page using JS.
+4. Loads Files: Gets HTML, images etc. from the server.
+----------HTML {Hyper text markup language}
+1. Structure : sets up the Layout
+2. Content : Adds text, images, links
+3. Tags: Uses Elements like <p>, <a>
+4. Hierarchy : Oraganizes elements in a tree.
+----------CSS {Cascading Style Sheets}
+1. Style: Sets the look and feel.
+2. Colors and fonts: customize text and bg.
+3. layout : controls position and size.
+4. selectors : targets specific HTML elements.
+----------JS {JavaScript}
+1. JavaScript has nothing to do with Java.
+2. Actions : Enables interactivity.
+3. Updates : Alters page without reloading.
+4. Events : Responds to user Actions.
+5. Data : Fetches and sends info to server.

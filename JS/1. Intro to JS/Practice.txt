@@ -1,0 +1,6 @@
+1. Use an alert to display Good Morning.
+2. Display your name in a popup.
+3. Using Math calculate the following:
+ => 75-25
+ => 3+3-5
+4. Change Facebook page to display “I am Learning JS”

@@ -1,0 +1,36 @@
+------------------Arithmetic Operators
++ -> Addition
+- -> Subtraction
+* -> Mulitplication
+/ -> Division
+% -> Remainder
+------------------Order of Operators
+( ) | rootx x^2 | / or * | + or -
+P       E          M D      A  s
+Associativity Rule - Left to right
+------------------Types of Numbers(integer & float)
+Integers
+- Whole
+    ~ zero
+    ~ Natural Numbers
+- Negative
+1. JS has many problems with float operations.
+2. We can use Math.round() to converts floats to integers.
+3. Always do money calculation in paisa instead of rupees.
+------------------Don't learn Syntax
+1. Google : Quick answers to coding problems.
+2. MDN : In-depth guides and documentation.
+https://developer.mozilla.org/
+3. chaptGPT: Real-time assistance for coding queries.
+4. focus : understand concepts, not just syntax.
+------------------Strings
+1. Strings hold textual data, anything from a single character to paragraph.
+2. Strings can be defined using single quotes ' ', double quotes " ", or backticks ` `. Backticks allow for template literals, which can include variables.
+ 3. You can combine (concatenate) strings using the + operator. For example, "Hello" + " World" will produce "Hello World".
+------------------Type Of Operators
+1. Check Type: Tells you the data type of a variable.
+2. Syntax: Use it like typeofvariable.
+3. Common Types: Returns "number," "string," "boolean,"etc.
+
+
+
