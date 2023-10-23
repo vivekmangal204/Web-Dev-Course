@@ -1,0 +1,140 @@
+[What is IDE]
+ 1.IDE stands for Integrated Development Environment.
+ 2. Software suite that consolidates basic tools required for software development.
+ 3. Central hub for coding, finding problems, and testing.
+ 4. Designed to improve developer efficiency.
+[Need of IDE]
+ 1. Streamlines development.
+ 2. Increases productivity.
+ 3. Simplifies complex tasks.
+ 4. Offers a unified workspace.
+ 5. IDE Features
+    a. Code Autocomplete
+    b. Syntax Highlighting
+    c. Version Control
+    d. Error Checking
+Install | Download VS Code | Download Required extensions
+------------------------------------------------HTML Revesion------------------------------------------------
+
+--Tags
+1. Elements that are used to create a website are called HTML Tags.
+2. Tags can contain content or other HTML tags.
+3. Define elements like text,images, links
+
+--Heading Tags
+1. Defines headings in a document
+2. Ranges from <h1> to <h6>
+3. <h1> is most important, <h6> is least
+4. Important for SEO
+5. Helps in structuring content
+
+--Button Tag
+<button>button Name</button>
+
+--Paragraph Tag
+ 1. Used for defining paragraphs
+ 2. Enclosed within <p> and </p> tags
+ 3. Adds automatic spacing before and after
+ 4. Text wraps to next line inside tag
+ 5. Common in text-heavy content
+
+--<br> tag
+ 1. <br> adds a line break within text
+ 2. <br> is empty, no closing tag needed
+ 3. <br> and <br /> are both valid
+
+--<hr> tag
+ 1. <hr> creates a horizontal rule or line
+ 2. <hr> also empty, acts as a divider
+
+--<anchor> tag
+ 1. Used for creating hyperlinks
+ 2. Requires href attribute for URL
+ 3. Can link to external sites or internal pages
+ 4. Supports target attribute to control link behavior
+
+--<div> tag
+ 1. Purpose: Acts as a container for other HTML elements.
+ 2. Non-Semantic: Doesn't provide inherent meaning to enclosed content.
+ 3. Styling: Commonly used for layout and styling via CSS.
+ 4. Flexibility: Highly versatile and can be customized using classes or IDs.
+
+--Basic HTML Page
+ <!DOCTYPE html>       //Defines the HTML Version
+<html lang="en">    // Parent of all HTML tags / Root element
+<head>               // Parent of meta data tags
+ <title>My First Webpage</title> //Title of the web page
+ </head>
+ <body>           //Parent of content tags
+ <h1>Hello World!</h1> Heading tag
+</body>
+ </html>
+
+--HTML DOM 
+ 1. Structure Understanding: Helps in understanding the hierarchical structure of a webpage, crucial for applying targeted CSS styles.
+ 2. Dynamic Styling: Enables learning about dynamic styling, allowing for real-time changes and interactivity through CSS.
+--HTML attribute
+ 1. Provides additional information about elements
+ 2. Placed within opening tags
+ 3. Common examples: href, src, alt
+ 4. Use name=value format
+ 5. Can be single or multiple per element
+
+------------------------------------------------CSS Revesion------------------------------------------------
+--> Basic syntax
+h1{
+    font-size: 30px;
+}
+ • Selector: The HTML element that you want to style.
+ • Property: The attribute you want to change (like font, color, etc.).
+ • Value: The specific style you want to apply to the property (like red, bold, etc.).
+
+--> Element Selector
+ • Targets Elements: Selects HTML elements based on their tag name.
+ • Syntax: Simply use the element's name
+ • Uniform Styling: Helps in applying consistent styles to all instances.
+ • Ease of Use: Straightforward and easy to implement for basic styling.
+
+--> ID and class attribute
+ • ID Property: Assigns a unique identifier to a single HTML element.
+ • Class Property: Allows grouping of multiple HTML elements to style them collectively. 
+ • Reusable Classes: Class properties can be reused across different elements for consistent styling.
+ • Specificity and Targeting: Both properties assist in targeting specific elements or groups of elements for precise styling.
+
+--> ID Selector
+ • Unique Iden fier: Targets a specific element with a unique ID attribute.
+ • Syntax: Uses the hash (#) symbol
+ • Single Use: Each ID should be used once per page for uniqueness.
+ • Specific Targe ng: Ideal for styling individual, dis nct elements.
+
+--> Class Selector
+ • Group Styling: Allows styling of multiple elements grouped under a class.
+ • Syntax: Utilizes the dot (.) symbol.
+ • Reusable: Can be used on multiple elements for consistent styling.
+ • Versatility: Ideal for applying styles to a category of elements.
+
+--> Querry Selector
+ 1. getElementById: Finds one element by its ID.
+ 2. getElementsByClassName: Finds elements by their class, returns a list.
+ 3. querySelector: Finds the first element that matches a CSS selector.
+ 4. Purpose: To interact with or modify webpage elements.
+
+--> Script Tag
+ 1. Embed Code: Incorporates JavaScript into an HTML file, either directly or via external files.
+ 2. Placement: Commonly placed in the <head> or just before the closing </body> tag to control when the script runs.
+ 3. External Files: Use src attribute to link external JavaScript files, like <script src="script.js"></script>.
+ 4. Console Methods: log, warn, error, clear
+
+--> JS & Css Syntax
+ 1. Used to add notes in source code in JavaScript or CSS.
+ 2. Not displayed on the web page
+ 3. Syntax: /*   comment here   */
+ 4. Helpful for code organization
+ 5. Can be multi-line or single-line
+
+--> HTML Comments
+ 1. Used to add notes in HTML code
+ 2. Not displayed on the web page
+ 3. Syntax: <!-- Comment here -->
+ 4. Helpful for code organization
+ 5. Can be multi-line or single-line
