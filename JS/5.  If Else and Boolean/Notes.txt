@@ -1,0 +1,26 @@
+-----> What are Booleans ?
+1. Datatype : Booleans are a Basic data type in javascript.
+2. Two values : Can only be true or false.
+3. 'true' is a String not a Booleans
+
+-----> Comparison Operators
+< > <= >= == !=
+Equality
+== check value Equality
+=== check value and type Equality
+Inequality
+!= check value Equality
+!== check value and type Equality
+Relational
+>   Greater Than
+<   Less Than
+>=  Greater than or equal to.
+<=  Less than or equal to.
+Order of comparison is less than arithmetic operators.
+
+-----> If - else
+1. syntax :
+if(condition)
+{
+    //code;
+}
