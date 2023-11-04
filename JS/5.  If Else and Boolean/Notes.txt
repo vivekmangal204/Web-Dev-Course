@@ -24,3 +24,23 @@ if(condition)
 {
     //code;
 }
+2. Wha is if: Executes block if condition is true, skips if false.
+3. What is else : Excecutes a block when the if condition is false.
+4. Curly Braces can be omitted for single statements, but not recommended.
+5. If-else ladder : Multiple if and else if blocks ; only one Executes
+6. Use Variables : Can store coditions in variables for use in if statements.
+
+-----> Logical Operators
+1. Types : && (And), ||(OR), !(Not)
+2. And (&&) : All conditions must be true for the result to be true.
+3. OR (||) : Only one codition must be true for the result to be true.
+4. Not(!) : Inverts the Boolean value of a codition.
+5. Lower Priority than Math and comparison Operators.
+
+-----> Scope
+1. Any Variable created inside {} will remain inside {}.
+2. variable can be redefined inside {}
+3. var does not follow scope
+4. Global scope : Accessible everywhere in the code.
+5. Block scope : Limited to a block mainly with let and const.
+6. Declare variables in the narrowest scope possible.
