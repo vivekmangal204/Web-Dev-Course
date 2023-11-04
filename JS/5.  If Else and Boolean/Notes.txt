@@ -44,3 +44,20 @@ if(condition)
 4. Global scope : Accessible everywhere in the code.
 5. Block scope : Limited to a block mainly with let and const.
 6. Declare variables in the narrowest scope possible.
+
+-----> Truthy and Falsy values
+1. Falsy Values : 0, null, undefined, false, NaN, ""(empty string)
+2. Truthy values : all Values not listed as falsy.
+3. Used in conditional statements like if.
+4. Non-boolean values are auto-converted in logical operations.
+5. Be explicit in comparisons to avoid unexpected.
+
+-----> If alternatives
+1. Ternary Operator : Condition ? trueValue : falseValue
+Quick one-line if-else
+2. Guard Operator : value || defaultValue
+use when a fallback value is needed.
+3. Default Operator : value ?? fallbackValue
+use when you want to consider only null and  undefined as falsy.
+4. Simplifies conditional logic.
+5. Use wisely to maintain readability.
