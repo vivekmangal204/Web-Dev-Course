@@ -1,0 +1,27 @@
+-------> What are Functions
+Define : Blocks of reusable code
+DRY Principle : "Don't repeat yourself" It encourages code reusability.
+Usage : Organizes code and performs specific tasks.
+Naming Rules : Same as variable names : camelCase
+Example : "Beta Gas Band kar de"
+
+------> Syntax
+function[keyword] greet[function_name](name)
+{
+    //code
+}
+greet(name);
+//code
+1. use function keyword to declare.
+2. Follows same rules as variable names.
+3. use () to contain parameters.
+4. Invoke by using the function name followed by ().
+5. Fundamental for code organization and reusability.
+
+------> Return Statement
+1. Sends a value back from a function.
+2. Eg. "Ek glass paani lao"
+3. What can be Returned : Value, Variable, calculation etc.
+4. Return ends the function immediately.
+5. function calls make code jumb around.
+6. prefer returning values over using global variables.
