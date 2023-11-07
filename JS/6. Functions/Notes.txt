@@ -25,3 +25,14 @@ greet(name);
 4. Return ends the function immediately.
 5. function calls make code jumb around.
 6. prefer returning values over using global variables.
+
+-------> parameters
+1. Input values that  a function takes.
+2. Parameters put value into function, while return gets value out.
+3. Example: "Ek Packet dahi laao"
+4. Naming Convention : Same as variable names.
+5. Parameter vs Argument
+6. Examples : alert, Math.round, console.log are functions we have already used.
+7. Multiple Parameters: Functions can take more than one.
+8. Default value : can set a Default value for a parameter.
+
