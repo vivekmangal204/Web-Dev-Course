@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script>
+        //Q.1 Check Even or Odd
+        let num = 4;
+        console.log(evenOrOdd(num));
+        function evenOrOdd(num)
+        {
+            if(num%2==0)
+            console.log("It is an Even Number");
+            else
+            console.log("It is an Odd number");
+        }
+        //Q.2 Check Greater one
+        let a = 5;
+        let b = 45;
+        console.log(checkLarge(a,b))
+        function checkLarge(x,y)
+        {
+            if(a>b)
+            return a;
+            else
+            return b;
+        }
+        //Q.3 Convert into Celcius into Farenheit
+        let c = 100
+        console.log(ConvertFarenheit(c));
+        function ConvertFarenheit(c){
+            let F = (9/5)*c+32;
+            return F;
+        }
+    </script>
+</body>
+</html>
