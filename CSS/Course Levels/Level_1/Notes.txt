@@ -1,0 +1,85 @@
+-----> Basic Syntax
+h1 [Selector]
+{
+    font-size : 30px
+    Property : Value
+}
+Selector : The HTML element that you want to style.
+Property : The attributes you want to change (like font, color,etc).
+Value : The specific style you want to apply to the property like (red bold etc.)
+
+-----> Color Property
+Define : The CSS color property defines the text color or foreground color in an HTML element.
+Enhancement : Use it to emphasize sections and elevate webpage asthetics.
+
+-----> Including Styles {Inline Styling}
+Direct Application : Apply styles directly to HTML elements using the style attribute.
+One-off Changes : Ideal for single, unique style alterations.
+can be cluttered : May lead to cluttered HTML if used extensively.
+Limited Reusability : Reduce the reusability of css rules in larger.
+
+-----> Internal Styling
+Embedded CSS : Styles are placed within <style> tags in the HTML head section.
+Cleaner than inline : More organized compared to inline styles.
+Reusable styles: Allows for some reuse of styles across the page.
+
+------> External Styling
+Seprate CSS File : Stores Styles in a seprate .css file, linked to HTML.
+Reusable : Enables style reuse across multiple webpages.
+link in HTML : use the <link> tag within <head> section to link the CSS.
+Relative or Absolute Path : The href attribute can contain a relative or absolute path to the CSS File.
+
+------> Priority Order
+Inline > Internal > External
+
+------> Html Refresher (Tags and Attributes)
+TAGS
+1. Elements that are used to create a website are called HTML tags.
+2. Tags can contain content or other HTML tags.
+3. Define elements like text, images, links.
+Attributes
+1. Provides additional information about elements
+2. use name = value format.
+
+------> HTML Refresher (DOM)
+1. Structure Understanding : Helps in understanding the hierarchial Structure of a webpage, crucial for applying targeted CSS styles.
+2. Dynamic styling : Enables learning about Dynamic styling, allowing for real-time changes and interactivity through CSS.
+
+------> Comments
+1. Used to add notes in HTML or CSS code 
+2. Not displayed on the webpage.
+3. Syntax
+<!-- HTML Comments -->
+/* CSS Comments */
+4. Helpful for code organization
+5. can be multi-line or single-line
+
+-------> MDN Documentation
+1. For official resource for CSS, Visit https://developer.mozilla.org/
+2. Includes Examples for real-world use
+3. Updated with latest CSS-3 features
+4. Trusted by developers world wide
+
+-------> Browser Tools (Inspect Elements)
+1. Allows real-time editing of HTML/CSS
+2. Useful for debugging and testing
+3. Shows element hierarchy and layout
+4. highlights selected elements on page
+
+-------> Browser Tools (Changes happening at client)
+1. Changes made are Temporary
+2. Affect only the current session
+3. Not saved to the server
+4. Reset upon page reload
+5. useful for testing, not permanent fixes
+Like : If you change the question in your question paper that has no effect on actual exam.
+
+------> CSS Specific element
+~ Styles Panel
+~ Box Model
+~ Changes happening only at client
+Source TAB
+Network TAB
+Performance TAB
+
+-----> Selectors (Element Selectors)
