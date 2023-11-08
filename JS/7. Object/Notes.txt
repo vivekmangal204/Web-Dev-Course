@@ -1,0 +1,25 @@
+----> What is an Object
+1. Groups : Multiple values together in key-value pairs.
+2. How to define : Use {} to enclose properties
+3. Example : product{name, price}
+4. Dot Notation : Use . operator to access values.
+5. Key Benefit : Organizes related data under a single name.
+
+----> Object Syntax
+let user(object name) = 
+{
+    key : Value
+    name : "John Doe", //Object Property
+    age : 40;
+}
+1. Basic Structure : Uses {} to enclose data.
+2. Rules : Property and Value seprated by a colon(:)
+3. Comma : Seprates different property-value pairs.
+4. Example : {name: "Laptop", price:1000}
+
+----> Accessing Objects
+1. Dot Notation : Access properties using operators like product.price
+2. Bracket Notation : Useful for properties with special characters product["nick-name]. Variables can be used to access properties.
+3. typeof returns object.
+4. values can be added or removed to an object.
+5. Delete values using delete.
