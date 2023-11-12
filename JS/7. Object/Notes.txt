@@ -25,3 +25,26 @@ let user(object name) =
 5. Delete values using delete.
 
 ----> Inside Object
+1. Objects can contain Primitives like numbers and strings.
+2. Objects can contain Other Objects and are called nested objects.
+3. Functions can be object properties.
+4. Functions inside an object are called methods.
+5. Null Value : Inventionally leaving a property empty.
+
+----> Autoboxing
+1. Automatic conversion of primitives to objects.
+2. Allows properties and methods to be used on primitives.
+3. Example : Strings have properties and methods like length, toUpperCase, etc.
+
+----> Object References
+1. Objects work based on References, not actual data
+2. copying an object copies the References, not the actual object.
+3. When comparing  with ==, you're comparing references, not content.
+4. Changes to one reference affects all copies.
+
+----> Object Shortcuts
+1. De-structuring : Extract properties from objects easily.
+2. We can extract more than one property at once.
+3. Shorthand Property : {message: message} simplifies to just message.
+4. Shorthand Method : Define methods directly inside the object without the function keyword.
+
