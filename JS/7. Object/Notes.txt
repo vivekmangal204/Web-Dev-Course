@@ -23,3 +23,5 @@ let user(object name) =
 3. typeof returns object.
 4. values can be added or removed to an object.
 5. Delete values using delete.
+
+----> Inside Object
