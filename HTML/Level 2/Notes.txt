@@ -1,0 +1,36 @@
+Must - Use HTML Tags
+---> Attribute
+eg. Hari Colors, Height etc
+
+---> What are HTML Attributes ?
+1. Provides additional information about elements
+2. Placed within opening Tags
+3. Common examples : href, src, additional
+4. use name = value format
+5. Can be single or multiple per elements
+
+---> ID Property
+Unique Identifier : Each id should be unique within a page.
+Anchoring : Allows for direct links to sections using the #id syntax in URLs.
+CSS & JavaScript : Used for selecting elements for styling or scripting.
+
+---> HTML Tags
+1. Defines headings in a document
+2. Ranges from <h1> to <h6>
+3. <h1> is most important, <h6> is least
+4. Important for SEO 
+5. Helps in structuring content
+
+---> Paragraph Tag
+1. Used for defining Paragraphs
+2. Enclosed within <p> and </p> Tags
+3. Adds automatic spacing before and after
+4. Text wraps to next line inside Tag
+5. common in text-heavy content
+
+---> Break Tag
+1. <br> adds a line break within text
+2. <br> is empty, no closing tag needed
+3. <br> and <br/> are both valid
+
+---> 

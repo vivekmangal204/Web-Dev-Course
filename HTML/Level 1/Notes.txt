@@ -52,7 +52,7 @@ comments
 3. syntax: <!-- Comments -->
 4. Helpful for code organization
 5. can be multi-line or single-line
-2.6
+2.60
 Case senstivity
 1. HTML is case-insensitive for tag names
 2. attribute names are also be case-insenstive
