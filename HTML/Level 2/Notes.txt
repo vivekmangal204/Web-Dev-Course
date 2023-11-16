@@ -33,4 +33,47 @@ CSS & JavaScript : Used for selecting elements for styling or scripting.
 2. <br> is empty, no closing tag needed
 3. <br> and <br/> are both valid
 
----> 
+---> <HR> tag
+<hr> Creates a horizontal rule or line
+<hr> also empty, acts as a divider
+
+---> Image Tag
+1. Used to embed images
+2. Utilizes the src attribute for image URL
+3. alt attribute for alternative text
+4. Can be resized using width and Height
+5. Self-closing, doesn't require an end tag
+
+---> Anchor Tag
+1. Used for creating hyperlinks
+2. Requires href attribute for URL
+3. Can Link to external sites or internal pages
+4. Supports target attribute to control link behaviour
+
+---> Bold/Italic/Underline/strikethrough
+1. <b> makes text Bold
+2. <i> makes text Italic
+3. <u> underline text
+4. <s> or <strike> applies strikethrough
+5. Primarily used for text styling and emphasis
+
+---> pre tag
+1. Preserves text formatting
+2. Maintains whitespace and line breaks
+3. Useful for displaying code
+4. Enclosed within <pre> and </pre> tags
+
+---> Big and Small Tag
+1. <big> increases text size
+2. <small> decreases text size
+3. Less common due to CSS alternatives
+
+---> Superscript/Subscript Tag
+1. <sup> makes text Superscript
+2. <sub> makes text Subscript
+3. used for mathematical equations, footnotes
+4. Does not change font size, just position
+
+---> Character entity reference
+1. Used to display reserved or special characters
+2.. Syntax often starts with & and ends with (eg. &amp; for &)
