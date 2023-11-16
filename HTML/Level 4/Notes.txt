@@ -8,10 +8,44 @@
 Generic : No specific meaning.
 For styling : Used for layout.
 No SEO : No SEO-friendly.
-Examples : <div>, <i>, <b>
+Examples : <div>, <i>, <b> <span>
 
 --- Body Tags ---
+
 1. Header Tag
 ~ Purpose : Used to contain introductory content or navigation links.
 ~ Semantic : It's a semantic tag, providing meaning to the enclosed content.
-~ Location : Commonly found at the top of 
+~ Location : Commonly found at the top of webpages, but can also appear within <article> or <section> tags.
+~ Multiple Instances : Can be used more than once a page within different sections.
+
+2. Main Tag
+~ Purpose : Enclose the primary content of a webpage.
+~ Semantic : Adds meaning, indicating the main content area.
+~ Unique : Should appear only once per page.
+~ Accessibility : Helps screen readers identify key content.
+~ Not for sidebars : Excludes content repeated across multiple pages like site navigation or footer.
+
+3.Section Tag
+Purpose : Groups related content in a distinct section.
+Semantic : Adds structure and meaning.
+Headers : Often used with a heading <h1> to <h6> to indicate section topic.
+Nested : Can be nested within other <section> or <article> tags.
+
+4. Article Tag
+Purpose : Encloses content that stands alone, like a blog post or news story.
+Semantic : Provides contextual meaning.
+Independence : Content should make sense even if taken out of the page context.
+Multiple instances : Can be used multiple times on the same page.
+
+5. Aside Tag
+Purpose : contains sidebar or supplementary content.
+Semantic : Indicates content tangentially related to the main content.
+Not crucial : Content is not essential to understanding the main content.
+eg : Could hold widgets, quotes, or Ads
+
+6. Footer Tag
+Purpose: For footer content like extra info  or links.
+Semantic : Provides meaning to enclosed content.
+Location : Typically at the bottom of pages or sections.
+Content : Includes copyrights, contact info, and social links.
+Multiple instances : can be used more than once on a page.
