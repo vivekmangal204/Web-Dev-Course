@@ -1,0 +1,58 @@
+<!-- Validator examples -->
+<DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+    <head>
+    <body>
+        <h1>Practise Level 2</h1>
+        <h2>Heading Tag</h2>
+        <br>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Velit rem expedita sed quibusdam illum iure tempore ipsum beatae eveniet deleniti tempora accusantium fugit, voluptatibus dignissimos, atque suscipit necessitatibus, sapiente reprehenderit officia? Debitis facilis suscipit accusamus sequi ex quae provident? Sunt, fuga. Sapiente porro, fuga exercitationem eligendi laudantium ex ullam enim.</p>
+        <hr>
+        <a href="https://developedbyvivekmangal.on.drv.tw/Portfolio/">
+            <img src="mypic.png" alt="Portfolio" height="300px">
+        </a>
+        <p>Lorem <b>ipsum dolor</b>ipsum dolor, sit amet consectetur adipisicing elit. <i>Magni rerum </i>Magni rerum <u>arum ullam, </u>esed placeat illum fugit fugiat <s>corporis error </s>nesciunt!</p>
+        <hr>
+        <p>3rd equation of Motion : v<sup>2</sup> = u<sup>2</sup> + 2as
+    </body>
+    </html>
+<!-- Errors -->
+Error: Start tag seen without seeing a doctype first. Expected 
+<!DOCTYPE html>.
+
+From line 1, column 1; to line 1, column 14
+
+<DOCTYPE html>↩<html
+
+Error: Element head is missing a required instance of child element title.
+
+From line 1, column 1; to line 1, column 14
+
+<DOCTYPE html>↩<html
+
+Content model for element head:
+If the document is an iframe srcdoc document or if title information is available from a higher-level protocol: Zero or more elements of metadata content, of which no more than one is a title element and no more than one is a base element.
+Otherwise: One or more elements of metadata content, of which exactly one is a title element and no more than one is a base element.
+Error: Element doctype not allowed as child of element body in this context. (Suppressing further errors from this subtree.)
+
+From line 1, column 1; to line 1, column 14
+
+<DOCTYPE html>↩<html
+
+Content model for element body:
+Flow content.
+Error: Stray start tag html.
+
+From line 2, column 1; to line 2, column 16
+
+YPE html>↩<html lang="en">↩<head
+
+Fatal Error: Cannot recover after last error. Any further errors will be ignored.
+
+From line 2, column 1; to line 2, column 16
+
+YPE html>↩<html lang="en">↩<head

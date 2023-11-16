@@ -1,0 +1,38 @@
+-----Browser Tools-----
+
+--> View Page Source
+1. Displays raw HTML and CSS
+2. Useful for debugging and learning
+3. shows External files like javascript links
+
+--> Inspect Elements
+1. Allows real-time editing of HTML/CSS
+2. Useful for debugging and testing
+3. Shows element hierarchy and layout
+4. Shows element hierarcy and layout
+5. Includes console for javascript
+6. Highlights selected elements on Page
+
+--> Different Screen Sizes
+1. Adapts layout for different screen Sizes
+2. Flexible layout
+3. Optimizes images and assets
+4. Enhances user experience on mobile and desktop
+
+Live Edit HTML CSS javascript
+
+---> Changes happenning at client
+1. Changes made are temporary
+2. Affect only the current session
+3. Not saved to the server
+4. Reset upon page reload
+5. Useful for testing, not permanent fixes
+Like : if you change the Question in your question paper that has no effect on actual exam
+
+--> Validating Web pages
+Using Validator.w3.org
+1. Ensures HTML adheres to standards.
+2. Minimizes Cross-browser issues
+3. Helps in achieving better SEO results
+4. Easier to debug and maintain
+5. Optimizes performance by reducing parsing errors
